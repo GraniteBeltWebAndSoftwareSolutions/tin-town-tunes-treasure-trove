@@ -6,7 +6,7 @@ import { ContextAlert } from 'components/context-alert';
 import { getNetlifyContext } from 'utils';
 
 const cards = [
-    //{ text: 'Hello', linkText: 'someLink', href: '/' }
+    //{ text: 'Hello. You have reached Tin Town Treasure Trove. How may I be of assistance?', linkText: 'someLink', href: '/' }
 ];
 
 const contextExplainer = `
