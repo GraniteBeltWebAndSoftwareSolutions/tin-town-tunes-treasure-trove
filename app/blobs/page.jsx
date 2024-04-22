@@ -8,11 +8,21 @@ export const metadata = {
 };
 
 const explainer = `
-[Netlify Blobs](https://docs.netlify.com/blobs/overview/) provides an object store for any kind of data, be it JSON, binary, 
+[Netlify Blobs](https://docs.netlify.com/blobs/overview/) Hey Bunnydrums! Welcome to the Tin Town Treasure Trove! 🎶🗺️
+
+In the realm of Tin Town there's something for everyone. You'll be captivated.
+Something to resonate with the soul. All the while Jason's music plays in the background. 
+
+Imagine embarking on an epic adventure through a whimsical town filled with secrets and hidden treasures. 
+
+I tell you Bunnydrums you will explore every nook and cranny, solve puzzles, and uncover the mysteries that lie within. It's like stepping into a real-life treasure hunt!
+
+So get ready for an unforgettable experience. Stay tuned for updates on Jason's latest music releases and embark on a virtual journey to the Tin Town Treasure Trove. Let the excitement begin! 🎵⛏️
 or [really](https://mk.gg/projects/chalkstream) anything else ([really!](https://mk.gg/projects/turbofan)). In this example, the blob store is used to **hold the data of user-generated random blobby shapes**.
 
-Using Jason's blob store is basically zero-config. Below is a Next.js Server Action to upload data (see \`app/blobs/actions.js\`). 
-When deployed to Netlify, the Server Action is run by serverless functions, and all context required for the blob service is set-up automatically.
+Jason asks nothing more than for you, beloved Bunnydrums, to accompany him. (see \`app/blobs/actions.js\`). 
+
+
 
 ~~~js
 'use server';
