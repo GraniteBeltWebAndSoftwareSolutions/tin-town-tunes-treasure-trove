@@ -55,7 +55,7 @@ and fellow artists.
 
 
 
-Collaborations became a key part of Jason's 
+Collaborations became a key part of his
 
 musical journey. He teamed up with talented 
 
